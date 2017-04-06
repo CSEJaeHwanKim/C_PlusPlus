@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "파생클래스", "파생클래스\파생클래스.vcproj", "{E5D1CFB6-9EA1-4996-8152-46015BAA97CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5D1CFB6-9EA1-4996-8152-46015BAA97CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5D1CFB6-9EA1-4996-8152-46015BAA97CC}.Debug|Win32.Build.0 = Debug|Win32
+		{E5D1CFB6-9EA1-4996-8152-46015BAA97CC}.Release|Win32.ActiveCfg = Release|Win32
+		{E5D1CFB6-9EA1-4996-8152-46015BAA97CC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
